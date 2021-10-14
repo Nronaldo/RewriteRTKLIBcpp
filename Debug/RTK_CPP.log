@@ -1,0 +1,25 @@
+﻿  Receiver.cpp
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(62): warning C4018: “<”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(174): warning C4018: “<”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(1190): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(1201): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(1493): warning C4101: “numofSbias”: 未引用的局部变量
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(1637): warning C4018: “<”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(1638): warning C4018: “<”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(1764): warning C4018: “<”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(1766): warning C4018: “<”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(2086): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(2177): warning C4018: “<”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(2178): warning C4018: “<”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(2237): warning C4018: “>”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(2253): warning C4018: “<”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(2263): warning C4018: “<”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(2311): warning C4018: “<”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(2336): warning C4018: “<”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(2429): warning C4018: “<”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(2464): warning C4018: “<”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(2477): warning C4018: “<”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(2492): warning C4018: “<”: 有符号/无符号不匹配
+d:\shmily\340_rtk\rtk_cpp\rtk_cpp\rtk_cpp\receiver.cpp(2505): warning C4018: “<”: 有符号/无符号不匹配
+  RTK_CPP.vcxproj -> D:\SHMILY\340_RTK\RTK_CPP\RTK_CPP\Debug\RTK_CPP.exe
